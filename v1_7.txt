@@ -1,0 +1,11 @@
+https://olmo-data.org/dolma-v1_7/books/books-0000.json.gz
+https://olmo-data.org/dolma-v1_7/c4-filtered/c4-0000.json.gz
+https://olmo-data.org/dolma-v1_7/cc_news_middle/cc_news-0000.json.gz
+https://olmo-data.org/dolma-v1_7/redpajama-arxiv/arxiv-0000.json.gz
+https://olmo-data.org/dolma-v1_7/cc_en_middle/cc_en_middle-0000.json.gz
+https://olmo-data.org/dolma-v1_7/reddit/reddit-0000.json.gz
+https://olmo-data.org/dolma-v1_7/tulu_flan/tulu_flan-0000.json.gz
+https://olmo-data.org/dolma-v1_7/redpajama-stackexchange/stackexchange-0000.json.gz
+https://olmo-data.org/dolma-v1_7/wiki/wiki-0000.json.gz
+https://olmo-data.org/dolma-v1_7/falcon-refinedweb-filtered/falcon-0000.json.gz
+https://olmo-data.org/dolma-v1_7/pes2o/pes2o-0000.json.gz
